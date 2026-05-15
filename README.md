@@ -7,3 +7,4 @@ This repository contains cybersecurity reports and case studies developed during
 - [Botium Toys Security Audit Checklist](botium-toys-completed-checklist.pdf)
 - [NIST CSF DoS Incident Report](incident-report-analysis-nist-csf-dos-attack.pdf)
 - [Linux File Permissions](file-permissions-in-linux.pdf)
+- [Apply Filters to SQL Queries](apply_filters_to_sql_queries_portfolio.pdf)

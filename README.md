@@ -4,6 +4,7 @@ This repository contains cybersecurity reports and case studies developed during
 
 ## Projects
 
+- [Vulnerability Assessment Report](vulnerability-assessment-report.pdf)
 - [Botium Toys Security Audit Checklist](botium-toys-completed-checklist.pdf)
 - [NIST CSF DoS Incident Report](incident-report-analysis-nist-csf-dos-attack.pdf)
 - [Linux File Permissions](file-permissions-in-linux.pdf)

@@ -1,11 +1,17 @@
 # Cybersecurity Portfolio
 
-This repository contains cybersecurity reports and case studies developed during my studies, including security audits, incident reports, risk assessments, and network hardening activities.
+This repository documents reports and practical work completed as part of my studies in the Google Cybersecurity Professional Certificate.
 
-## Projects
+**Status:** In progress — 6 of 9 courses completed.
 
-- [Vulnerability Assessment Report](vulnerability-assessment-report.pdf)
-- [Botium Toys Security Audit Checklist](botium-toys-completed-checklist.pdf)
-- [NIST CSF DoS Incident Report](incident-report-analysis-nist-csf-dos-attack.pdf)
-- [Linux File Permissions](file-permissions-in-linux.pdf)
-- [Apply Filters to SQL Queries](apply_filters_to_sql_queries_portfolio.pdf)
+## Portfolio work
+
+- **[Vulnerability Assessment Report](vulnerability-assessment-report.pdf)** — Assesses the risks of a publicly accessible MySQL database server using a qualitative risk matrix and guidance from NIST SP 800-30 Rev. 1.
+
+- **[Botium Toys Security Audit Checklist](botium-toys-completed-checklist.pdf)** — Reviews security controls and compliance practices involving PCI DSS, GDPR, and System and Organization Controls (SOC 1 and SOC 2) in an educational business scenario.
+
+- **[DoS Incident Analysis using the NIST CSF](incident-report-analysis-nist-csf-dos-attack.pdf)** — Uses the NIST Cybersecurity Framework to structure the analysis and response to an ICMP flood denial-of-service incident.
+
+- **[Linux File Permissions](file-permissions-in-linux.pdf)** — Reviews and corrects file and directory permissions with `ls` and `chmod`, following least-privilege requirements.
+
+- **[SQL Filters for a Security Investigation](apply_filters_to_sql_queries_portfolio.pdf)** — Uses `AND`, `OR`, `NOT`, and `LIKE` to investigate login activity and identify employee machines requiring security updates.

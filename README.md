@@ -15,3 +15,5 @@ This repository documents reports and practical work completed as part of my stu
 - **[Linux File Permissions](file-permissions-in-linux.pdf)** — Reviews and corrects file and directory permissions with `ls` and `chmod`, following least-privilege requirements.
 
 - **[SQL Filters for a Security Investigation](apply_filters_to_sql_queries_portfolio.pdf)** — Uses `AND`, `OR`, `NOT`, and `LIKE` to investigate login activity and identify employee machines requiring security updates.
+
+- **[Incident Handler's Journal](incident-handlers-journal.pdf)** – Documents phishing and malware investigations, network traffic analysis, and hands-on labs using VirusTotal, Wireshark, tcpdump, and Suricata.
